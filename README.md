@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ralflima/react_hooks/blob/master/conceitos/src/logo.svg" width="30%">
+  <img src="https://github.com/ralflima/api_aspnet_mysql/blob/master/NET_Core_Logo.svg.png" width="30%">
   <h1 style="border-bottom:none">API com ASP.NET Core 5 e MySQL</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
